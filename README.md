@@ -2,7 +2,7 @@
 
 <h1 align="left">Kutay Ölmez</h1>
 
-I am a senior computer engineering student who is passionate about coding, a researcher, a self-developer, and open to innovations.
+I am a Jr. Software Engineer who is passionate about coding, a researcher, a self-developer, and open to innovations.
 To become a sought-after engineer in this ever-developing sector, I focused on improving myself both in my education life and my social life.
 
 - 📫 Reach me: kutayolmez@gmail.com 
